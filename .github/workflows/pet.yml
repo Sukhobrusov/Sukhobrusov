@@ -1,0 +1,18 @@
+name: My YourTomo cat
+on:
+  schedule:
+    - cron: '23 */6 * * *'   # запуск каждые 6 часов
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  pet:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: prsdx/github-pet@v1
+        with:
+          username: Sukhobrusov        # ваш GitHub-username
+          timezone-offset-minutes: "180" # ваш UTC-сдвиг в минутах (180 = UTC+3, Москва)
