@@ -24,3 +24,6 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/assets/black-square.svg" width="300">
   <img src="https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/assets/black-square.svg" width="300">
 </p>
+
+![Мой пиксельный котограф](https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/dist/graph.svg)
+![Мои языки](https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/dist/langs.svg)
