@@ -15,4 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Мой пиксельный котик](https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/dist/pet.svg)
-<img src="https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/assets/black-square.svg" width="444" alt="Чёрный квадрат с белым внутри"><img src="https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/assets/black-square.svg" width="444" alt="Чёрный квадрат с белым внутри">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/assets/black-square.svg" width="300">
+  <img src="https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/assets/black-square.svg" width="300">
+</p>
