@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Мой пиксельный котик](https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/dist/pet.svg)
+![Чёрный квадрат](https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/assets/black-square.svg)![Даже два](https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/assets/black-square.svg)
