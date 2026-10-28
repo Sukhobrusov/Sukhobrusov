@@ -14,8 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/assets/black-square.svg" width="300">
+  <img src="https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/assets/black-square.svg" width="300">
+  <img src="https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/assets/black-square.svg" width="300">
+</p>
+
 ![Мой пиксельный котик](https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/dist/pet.svg)
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/assets/black-square.svg" width="300">
   <img src="https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/assets/black-square.svg" width="300">
   <img src="https://raw.githubusercontent.com/Sukhobrusov/Sukhobrusov/main/assets/black-square.svg" width="300">
 </p>
